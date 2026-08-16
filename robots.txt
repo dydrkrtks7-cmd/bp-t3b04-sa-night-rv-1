@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dangsan-massage-note.go-apgujeong-nrb.xyz/sitemap.xml
+Sitemap: https://dangsan-massage-note.go-apgujeong-nrb.xyz/sitemap-pages.xml
